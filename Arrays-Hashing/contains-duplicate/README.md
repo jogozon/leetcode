@@ -1,3 +1,1 @@
-Given two strings s and t, return true if the two strings are anagrams of each other, otherwise return false.
-
-An anagram is a string that contains the exact same characters as another string, but the order of the characters can be different.
+Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
